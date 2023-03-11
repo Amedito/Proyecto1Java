@@ -9,5 +9,5 @@ package com.mycompany.proyecto1progra3;
  * @author amedi
  */
 public class Ventana {
-    
+    //esta es una ventana
 }
